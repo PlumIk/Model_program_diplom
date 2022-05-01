@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ PATH/Model_program.cpp -o now.out
+./now.out $1 $2
